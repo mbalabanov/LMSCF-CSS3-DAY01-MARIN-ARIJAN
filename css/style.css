@@ -6,3 +6,8 @@ div {
 #ourform {
 	padding: 40px;
 }
+
+#first p {
+  font-weight: 600;
+  font-size: 120%;
+}
