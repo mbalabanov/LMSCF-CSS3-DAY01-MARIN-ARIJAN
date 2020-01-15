@@ -1,0 +1,20 @@
+div {
+	border: solid 1px red;
+	margin: 5px;
+}
+
+#third p {
+	display: none;
+}
+
+h1 {
+	display: none;
+}
+
+#second > *  {
+	visibility: hidden;
+} 
+
+img {
+	visibility: visible;
+}
