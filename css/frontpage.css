@@ -1,0 +1,36 @@
+h1 {
+	font-size: 400%;
+}
+
+.topfeature {
+	width: 580px;
+	float: left;
+}
+
+.feature {
+	width: 280px;
+	margin: 10px;
+	float: left;
+}
+
+.featuretitle {
+	height: 60px;
+}
+
+a {
+	text-decoration: none;
+}
+
+main {
+	width: 910px;
+}
+
+aside {
+	width: 910px;
+}
+
+.featuredfront {
+	width: 200px;
+	float: left;
+	margin: 12px;
+}
