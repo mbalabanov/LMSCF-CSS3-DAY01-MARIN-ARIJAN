@@ -1,0 +1,112 @@
+body {
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	background-color:  gray;
+}
+
+nav {
+	width: 460px;
+	float: left;
+	margin-top: 25px;
+	margin-left: 40px;
+}
+
+nav a {
+	display: inline;
+	padding: 12px;
+	border-radius: 12px;
+	color:  black;
+	text-decoration: none;
+}
+
+h1 {
+	font-family: 'IM Fell Great Primer SC', serif;
+	font-size: 180%;
+	line-height: 80%;
+	color: red;
+	text-align: center;
+	margin:  0;
+}
+
+.search {
+	margin: 25px;
+	width: 240px;
+	float: left;
+}
+
+table {
+  border-collapse: collapse;
+  border-radius: 1em;
+  overflow: hidden;
+}
+
+th, td {
+  padding: 1em;
+  background: #ddd;
+  border-bottom: 2px solid white; 
+}
+
+#logo {
+	margin-left: 20px;
+	width: 80px;
+	float: left;
+}
+
+.clear {
+	clear: both;
+}
+
+header {
+	width: 910px;
+	height: 75px;
+	margin: 0 auto;
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+main {
+	width: 640px;
+	float: left;
+	background-color: white;
+	padding: 20px;
+	margin: 8px 0px 4px 0px;
+	border-radius: 10px;
+}
+
+aside {
+	width: 220px;
+	float: right;
+	background-color: white;
+	padding: 20px;
+	margin: 8px 0px 8px 4px;
+	border-radius: 10px;
+}
+
+.container {
+	background-color: white;
+	width: 950px;
+	margin: 0 auto;
+}
+
+.image {
+  display: block;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+ }
+
+ .summary {
+ 	font-weight: 600;
+ 	font-size: 110%;
+ }
+
+ footer {
+	width: 910px;
+	height: 55px;
+	margin: 0 auto;
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+	margin-top: 10px;
+	text-align: center;
+}
